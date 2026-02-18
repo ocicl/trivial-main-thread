@@ -4,6 +4,6 @@ Compatibility library to run things in the main thread.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/trivial-main-thread.git |
-| commit  | b388bd0                                                 |
+| commit  | 0000000                                                 |
 | systems | trivial-main-thread                                     |
 |---------+---------------------------------------------------------|
